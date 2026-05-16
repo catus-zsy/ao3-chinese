@@ -12,11 +12,11 @@ Hans Capon = 汉斯·卡蓬
 Henry=亨利
 Kingdom Come: Deliverance = 天国：拯救
 Dry Devil=酒鬼
-
+Hansry=亨汉
 
 通用词条
 // 此区域不区分大小写，用于翻译通用概念
-
+Good Boy=乖狗
 
 禁翻词条
 // 此区域区分大小写，用于保持原文
