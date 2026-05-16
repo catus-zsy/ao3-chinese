@@ -16,13 +16,13 @@ Hansry=亨汉
 
 通用词条
 // 此区域不区分大小写，用于翻译通用概念
-Good Boy=乖狗
+Good Boy=好狗狗
 
 禁翻词条
 // 此区域区分大小写，用于保持原文
 Top
 Dom
-
+Puppy Play
 
 正则表达式
 // 匹配德语中 "Wachmann" 的单数和复数形式
