@@ -14,7 +14,11 @@ Kingdom Come: Deliverance = 天国：拯救
 Dry Devil=酒鬼
 Hansry=亨汉
 Radzig = 拉德季
-Hanush = 翰纳什
+Hanush = 瀚纳什
+Von Bergow=冯·波尔高
+Bergow=波尔高
+Trosky=特罗斯基
+Pirkstein=皮克斯坦因
 
 通用词条
 // 此区域不区分大小写，用于翻译通用概念
